@@ -22,3 +22,6 @@ Dockerを事前にインストールしてください。
 3. `docker compose exec app bash` でappコンテに入る
 4. `npm run dev`でViteを起動
 5. ブラウザで`http://localhost:2020`にアクセス
+
+## インフラ構成図
+![realworld-infra drawio](https://github.com/FumihikoTsutsuguchi/realworld-aws-test/assets/115400802/f22a5c03-db65-46e0-8f5c-8a5b233c80fc)
